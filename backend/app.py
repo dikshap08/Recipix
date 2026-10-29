@@ -1,12 +1,6 @@
 """
-Python Flask Backend for Recipix - Smart Recipe Generator
-=========================================================
-Handles AI-powered ingredient detection using the Google Gemini Multimodal API.
-
-To run this backend locally:
-1. pip install -r requirements.txt
-2. export GEMINI_API_KEY="your_api_key_here"
-3. python app.py (runs on http://localhost:5000)
+Recipix Flask Backend
+Handles AI-powered ingredient detection using the Google Gemini API.
 """
 
 import os
