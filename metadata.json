@@ -1,0 +1,8 @@
+{
+  "name": "Recipix - Smart Recipe Generator",
+  "description": "Recipix is a simple AI-powered recipe generator that can identify ingredients from an uploaded image and generate recipes using the ingredients available to the user.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
