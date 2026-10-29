@@ -15,25 +15,19 @@ Recipix helps you discover recipes based on the ingredients you have at home. Ge
 ### 3. My Pantry
 ![My Pantry](screenshots/my-pantry.png)
 
-### 4. Pantry Ingredient Scan
-![Pantry Ingredient Scan](screenshots/pantry-ingredient-scan.png)
-
-### 5. Ingredient Image Preview
-![Ingredient Image Preview](screenshots/ingredient-image-preview.png)
-
-### 6. Ingredient Selection
+### 4. Ingredient Selection
 ![Ingredient Selection](screenshots/ingredient-selection.png)
 
-### 7. Recipe Preferences
+### 5. Recipe Preferences
 ![Recipe Preferences](screenshots/recipe-preferences.png)
 
-### 8. Recipe Overview
+### 6. Recipe Overview
 ![Recipe Overview](screenshots/recipe-overview.png)
 
-### 9. Cooking Instructions
+### 7. Cooking Instructions
 ![Cooking Instructions](screenshots/cooking-instructions.png)
 
-### 10. Nutrition and Cooking Tips
+### 8. Nutrition and Cooking Tips
 ![Nutrition and Cooking Tips](screenshots/nutrition-and-tips.png)
 
 ## ✨ Features
