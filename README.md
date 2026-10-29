@@ -71,17 +71,11 @@ Open the local URL displayed in your terminal.
 
 ## 🔑 Environment Variables
 
-| Variable | Description |
-|---|---|
+| Variable         | Description                         |
+| ---------------- | ----------------------------------- |
 | `GEMINI_API_KEY` | API key used for Gemini AI features |
 
 Keep API keys private and configure them securely when deploying the application.
-
-## 🌐 Deployment
-
-Recipix can be deployed using a hosting platform that supports Node.js applications, such as Render.
-
-Configure the required environment variables and production build and start commands in your hosting dashboard.
 
 ## 📁 Project Structure
 
