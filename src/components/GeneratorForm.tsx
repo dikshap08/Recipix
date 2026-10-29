@@ -225,7 +225,7 @@ export const GeneratorForm: React.FC<GeneratorFormProps> = ({
         <div className="mb-8 text-center sm:text-left">
           <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-amber-500/10 text-amber-800 text-xs font-semibold mb-2.5">
             <Sparkles className="w-3.5 h-3.5 text-amber-600" />
-            <span>AI Recipe Studio</span>
+            <span>AI Recipe Generator</span>
           </div>
           <h2 className="text-2xl sm:text-3xl font-extrabold font-heading text-stone-900 tracking-tight">
             Create Your Custom Recipe
