@@ -14,7 +14,7 @@ export default defineConfig(() => {
     server: {
       // Enable or disable HMR using the DISABLE_HMR environment variable.
       hmr: process.env.DISABLE_HMR !== "true",
-      // Disable file watching when DISABLE_HMR is true to save CPU during agent edits.
+      // Configure file watching based on the HMR setting.
       watch: process.env.DISABLE_HMR === "true" ? null : {},
       proxy: {
         "/api": {
