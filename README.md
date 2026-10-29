@@ -4,6 +4,38 @@
 
 Recipix helps you discover recipes based on the ingredients you have at home. Generate personalized recipes, explore cooking ideas, and make meal planning easier with the power of AI.
 
+## 📸 Screenshots
+
+### 1. Homepage
+![Recipix Homepage](screenshots/homepage.png)
+
+### 2. Explore Recipes
+![Explore Recipes](screenshots/explore-recipes.png)
+
+### 3. My Pantry
+![My Pantry](screenshots/my-pantry.png)
+
+### 4. Pantry Ingredient Scan
+![Pantry Ingredient Scan](screenshots/pantry-ingredient-scan.png)
+
+### 5. Ingredient Image Preview
+![Ingredient Image Preview](screenshots/ingredient-image-preview.png)
+
+### 6. Ingredient Selection
+![Ingredient Selection](screenshots/ingredient-selection.png)
+
+### 7. Recipe Preferences
+![Recipe Preferences](screenshots/recipe-preferences.png)
+
+### 8. Recipe Overview
+![Recipe Overview](screenshots/recipe-overview.png)
+
+### 9. Cooking Instructions
+![Cooking Instructions](screenshots/cooking-instructions.png)
+
+### 10. Nutrition and Cooking Tips
+![Nutrition and Cooking Tips](screenshots/nutrition-and-tips.png)
+
 ## ✨ Features
 
 - **AI Recipe Generation:** Generate recipes based on your available ingredients.

@@ -11,7 +11,7 @@ dotenv.config({
   path: path.resolve(process.cwd(), ".env.local"),
 });
 
-const PORT = 3000;
+const PORT = Number(process.env.PORT || 3000);
 const FLASK_PORT = 5000;
 
 let flaskProcess: any = null;
